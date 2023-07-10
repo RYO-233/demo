@@ -1,0 +1,4 @@
+<svg id="notification" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="矩形_5691" data-name="矩形 5691" width="20" height="20" fill="#bec4d1" opacity="0"/>
+  <path id="路径_29922" data-name="路径 29922" d="M131.632,66.448a4.3,4.3,0,0,0-1.741-3.254V59.6a4.363,4.363,0,0,0-3.5-4.232v-.083a1.754,1.754,0,0,0-3.508,0v.083a4.36,4.36,0,0,0-3.5,4.231v3.592a4.3,4.3,0,0,0-1.741,3.254h1.741v.011h10.517v-.011h1.741Zm-7.37,3.12h.435a2.24,2.24,0,0,0,2.229-1.931h-4.583a2.239,2.239,0,0,0,2.229,1.931Z" transform="translate(-114.632 -51.568)" fill="#bec4d1" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+</svg>

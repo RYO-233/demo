@@ -1,0 +1,15 @@
+<svg id="案件总览" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #bec4d1;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_5693" data-name="矩形 5693" class="cls-1" width="20" height="20"/>
+  <path id="路径_29388" data-name="路径 29388" class="cls-2" d="M9.5,56a5.5,5.5,0,0,1-.459-10.981l-.082-1a6.5,6.5,0,1,0,7.019,7.017l-1-.082A5.527,5.527,0,0,1,9.5,56M10,43v7h7a7,7,0,0,0-7-7m1,1.083A6.017,6.017,0,0,1,15.917,49H11Z" transform="translate(0 -40)"/>
+</svg>

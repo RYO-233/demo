@@ -1,0 +1,15 @@
+<svg id="软件异常" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #bec4d1;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_5691" data-name="矩形 5691" class="cls-1" width="20" height="20"/>
+  <path id="路径_29387" data-name="路径 29387" class="cls-2" d="M218.091,15.485,210.857,3.429a1,1,0,0,0-1.714,0l-7.234,12.056A1,1,0,0,0,202.766,17h14.468a1,1,0,0,0,.857-1.515M211,15h-2V13h2Zm0-3h-2V7h2Z" transform="translate(-200)"/>
+</svg>

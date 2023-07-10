@@ -1,0 +1,10 @@
+/* 本项目css变量 */
+:root {
+  /* element-ui  主题颜色变量 */
+  --color-primary: #1890ff;
+  --color-success: #13ce66;
+  --color-warning: #ffba00;
+  --color-danger: #ff4949;
+  --box-shadow: 0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04);
+  --border: 1px solid #dcdfe6;
+}

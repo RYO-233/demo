@@ -1,0 +1,30 @@
+
+.BMap_cpyCtrl {
+	display: none;
+}
+
+.anchorBL {
+	display: none;
+}
+
+.css_animation {
+	height: 50px;
+	width: 50px;
+	border-radius: 25px;
+	background: rgba(250, 250, 0, 0.9);
+	transform: scale(0);
+	animation: ani 1s;
+	animation-timing-function: ease-out;
+	animation-iteration-count: infinite;
+	-webkit-animation: scale(0);
+	-webkit-animation-iteration-count: infinite;
+	/* animation-direction:alternate; */
+}
+
+
+@keyframes ani {
+	to {
+		transform: scale(1.5);
+		background: rgba(0, 0, 0, 0);
+	}
+}

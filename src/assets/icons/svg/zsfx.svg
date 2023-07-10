@@ -1,0 +1,15 @@
+<svg id="走势分析" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #bec4d1;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_5699" data-name="矩形 5699" class="cls-1" width="20" height="20"/>
+  <path id="路径_29391" data-name="路径 29391" class="cls-2" d="M136,43H124a1,1,0,0,0-1,1v9a1,1,0,0,0,1,1h12a1,1,0,0,0,1-1V44a1,1,0,0,0-1-1m0,10H124V44h12Zm-10,3h8V55h-8Zm2.937-7.856,2,2,3.341-2.228-.555-.832-2.659,1.773-2-2-3.341,2.227.555.832Z" transform="translate(-120 -40)"/>
+</svg>

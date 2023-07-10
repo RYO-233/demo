@@ -1,0 +1,58 @@
+{
+  "id": "4000680",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14095317",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "15715005",
+      "name": "quit",
+      "font_class": "quit",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1346659",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "2742625",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "18533096",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "24267125",
+      "name": "标签1-面型",
+      "font_class": "biaoqian1-mianxing",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "24474685",
+      "name": "审核后台_面",
+      "font_class": "shenhehoutai_mian",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    }
+  ]
+}

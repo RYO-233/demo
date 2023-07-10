@@ -1,0 +1,15 @@
+<svg id="责任单位" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #bec4d1;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_5705" data-name="矩形 5705" class="cls-1" width="20" height="20"/>
+  <path id="路径_29394" data-name="路径 29394" class="cls-2" d="M10,83.062a.99.99,0,0,0-.336.058L3.332,85.381A.5.5,0,0,0,3,85.852V87.5a.5.5,0,0,0,.5.5H5v5H3.5a.5.5,0,0,0-.5.5v3a.5.5,0,0,0,.5.5h13a.5.5,0,0,0,.5-.5v-3a.5.5,0,0,0-.5-.5H15V88h1.5a.5.5,0,0,0,.5-.5V85.852a.5.5,0,0,0-.332-.471L10.336,83.12A.99.99,0,0,0,10,83.062M4,87v-.795l6-2.143,6,2.143V87Zm8,1h2v5H12ZM9,88h2v5H9ZM6,88H8v5H6ZM4,96V94H16v2Z" transform="translate(0 -80)"/>
+</svg>
